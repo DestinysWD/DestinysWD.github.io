@@ -1,2 +1,2 @@
 # destinywd.github.io
-The Website template is designed by Margie Ruffin
+This website template is designed by Margie Ruffin <a href="mruffin.github.io" target="_blank">mruffin.github.io</a>
