@@ -1,2 +1,2 @@
-# mruffin.github.io
-The Website template for Margie Ruffin
+# destinywd.github.io
+The Website template is designed by Margie Ruffin
